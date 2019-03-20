@@ -17,3 +17,5 @@ Contains a CSV export of the Excel data.  The CSV file will be post-processed by
   *  [Accumulate data along moonphase and generate CSV](https://github.com/saromleang/stockx-dc19/blob/master/process-moon-shift.py#L131-L150)
   *  [CSVs were import into Tableau](https://github.com/saromleang/stockx-dc19/blob/master/Moonphase.twb)
   *  [Generated dashboard](https://github.com/saromleang/stockx-dc19/blob/master/Dashboard%201.png)
+
+![alt text](https://github.com/saromleang/stockx-dc19/blob/master/Dashboard%201.png)
