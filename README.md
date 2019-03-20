@@ -1,5 +1,5 @@
 # stockx-dc19
-StockX Data Challenge 2019 - Lunar Hype
+[StockX Data Challenge 2019 - Lunar Hype 3rd Place](https://stockx.com/news/2019-data-contest-winner/)
 
 ## StockX-Data-Contest-2019-3.xlsx
 Contains a slightly modified Excel sheet of the original data from StockX.  I added a couple of new columns that were caculated from the existing data:
